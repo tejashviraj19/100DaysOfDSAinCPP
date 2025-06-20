@@ -17,4 +17,4 @@ int main() {
     cout << "Digit " << digit << " occurs " << countDigit(number, digit) << " times." << endl;
 
     return 0;
-}
+};
